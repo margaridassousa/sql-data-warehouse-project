@@ -1,6 +1,6 @@
 # Projeto de Data Warehouse e Analytics
 
-Bem-vindo ao repositório do **Projeto de Data Warehouse e Analytics**!
+Bem-vindo ao repositório do **Projeto de Data Warehouse e Analytics**!<br>
 Este projeto tem como objetivo demonstrar uma solução abrangente de armazenamento e análise de dados, desde a construção de um data warehouse até à geração de informações acionáveis. Criado como um projeto de portfólio, destaca as melhores práticas da indústria em engenharia e análise de dados. 
 
 ---
